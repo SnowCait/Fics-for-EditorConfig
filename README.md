@@ -1,2 +1,23 @@
 # Fics-for-EditorConfig
-Fix Code Styles for EditorConfig
+
+> A GitHub App built with [Probot](https://github.com/probot/probot) that Fix Coding Styles for EditorConfig
+
+## Setup
+
+```sh
+# Install dependencies
+npm install
+
+# Run the bot
+npm start
+```
+
+## Contributing
+
+If you have suggestions for how Fics-for-EditorConfig could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+
+For more, check out the [Contributing Guide](CONTRIBUTING.md).
+
+## License
+
+[ISC](LICENSE) © 2019 SnowCait <SnowCait@users.noreply.github.com>
